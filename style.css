@@ -6,6 +6,23 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+body {
+  width: 800px;
+}
+
+.homepage {
+  margin: 250px 250px auto 25%;
+}
+
+.title {
+  padding-left: 15px;
+}
+
+.list {
+  padding-left: 50px;
+  margin-top: -30px;
+}
+
 img {
   padding-left: 50px;
   padding-right: auto;
@@ -17,6 +34,7 @@ img {
   color: bisque;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding-left: 20px;
+  margin-bottom: 0px;
 }
 
 .sub_headings {
@@ -25,6 +43,12 @@ img {
   color: bisque;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding-left: 30px;
+  margin-bottom: 0px;
+}
+
+.sublists {
+  margin-top: 0px;
+  padding-left: 50px;
 }
 
 .return {
@@ -35,4 +59,11 @@ img {
 
 p {
   padding-left: 30px;
+  margin-top: 0px;
+}
+
+button {
+  margin-left: 300px;
+  padding: 10px;
+  border: 2px double bisque;
 }
