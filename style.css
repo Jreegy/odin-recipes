@@ -6,11 +6,17 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+img {
+  padding-left: 50px;
+  padding-right: auto;
+}
+
 .titles {
   font-size: 50px;
   font-weight: 800;
   color: bisque;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 20px;
 }
 
 .sub_headings {
@@ -18,10 +24,15 @@
   font-weight: 700;
   color: bisque;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 30px;
 }
 
 .return {
   text-align: center;
   font-size: 10px;
   color: coral;
+}
+
+p {
+  padding-left: 30px;
 }
